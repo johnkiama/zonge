@@ -56,21 +56,4 @@ with open("TEM22021o.avg") as fp:
         
         print("", data)
         
-           
-        
-        
-        
-        
-        
-#        print(data)
-        
-        
-        
-  #      (" " "  {} " "  {}   {}".format(x[1], x[2], float(line.split()[7])))
-            
-            
-            
- #       with open("21942201-corrected.avg", 'w') as f:
-  #          outfile = f.writelines(data)
-   #         print(outfile)
-
+          
